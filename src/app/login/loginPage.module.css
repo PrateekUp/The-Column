@@ -7,7 +7,7 @@
 
 .wrapper {
   background-color: var(--softBg);
-  padding: 150px 200px;
+  padding: 120px 150px;
   display: flex;
   flex-direction: column;
   gap: 50px;
@@ -24,6 +24,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .socialButton:first-child {
